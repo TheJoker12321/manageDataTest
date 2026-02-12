@@ -11,6 +11,13 @@ nav {
     display: flex;
 }
 
+.button-click {
+
+    background-color: rgba(189, 183, 107, 0.308);
+    border: 0.5px solid black;
+    border-radius: 5px;
+}
+
 .div-search {
 
     padding: 1rem;
@@ -23,7 +30,7 @@ nav {
 }
 
 
-section div:hover {
+section .terorist:hover {
 
     border: 2px solid black;
 }

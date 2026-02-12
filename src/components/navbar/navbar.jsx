@@ -10,7 +10,7 @@ export default function Navbar({ data }) {
     const [attackNumber, setAttackNumber] = useState(0)
     const [newData, setNewData] = useState([])
     const [flag, setFlag] = useState(false)
-    const [status, setStatus] = useState("")
+    const [status, setStatus] = useState("active")
 
     function SearchByName() {
 

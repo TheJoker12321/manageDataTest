@@ -16,6 +16,13 @@ section {
     width: 100px;
 }
 
+.summary {
+
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
 .head-details div {
 
     width: 100%;
