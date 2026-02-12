@@ -1,0 +1,60 @@
+section {
+
+    height: 40%;
+    width: 100%;
+}
+
+.head-details {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.head-details img {
+
+    height: 100px;
+    width: 100px;
+}
+
+.head-details div {
+
+    width: 100%;
+    padding-left: 1rem;
+}
+
+.head-details button {
+
+    background-color: none;
+    border: none;
+    width: 15rem;
+}
+
+.terorist {
+
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+svg {
+
+    height: 20px;
+    width: 20px;
+}
+
+.more-details {
+
+    display: flex;
+    
+}
+
+.more-details div {
+
+    padding-left: 1rem;
+}
+
+.more-details button {
+
+    background-color: none;
+    border: none;
+}
